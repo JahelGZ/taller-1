@@ -78,8 +78,6 @@ Es una herramienta o también considerado lenguaje de escritura que nos permite 
 - **Pregunta 22:** Son variables configuradas directamente en el sistema operativo que guardan rutas y datos globales del equipo. Para Java son vitales porque le indican a Windows o Linux dónde están los binarios del compilador (javac) y la máquina virtual (java). Gracias a esto, la consola reconoce los comandos y podemos compilar o correr nuestros proyectos desde cualquier carpeta del computador.
 ---
 
-# PARTE PRACTICA   
-+
 
 
 
